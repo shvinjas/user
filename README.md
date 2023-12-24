@@ -1,2 +1,2 @@
 # user
-a simple user response code
+A simple user response code
